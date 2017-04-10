@@ -93,7 +93,7 @@ public class MDIApp extends Frame {
      *************************************************************************/
     
     public MDIApp() {
-    super("Java Media Player");
+    super("Java Media Player Number 2");
 
     // Add the desktop pane
     setLayout( new BorderLayout() );
